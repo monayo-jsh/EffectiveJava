@@ -1,4 +1,4 @@
-package chapter2.example;
+package chapter2.item2.example;
 
 public class CalzonePizza extends Pizza {
     private final boolean sauceInside;

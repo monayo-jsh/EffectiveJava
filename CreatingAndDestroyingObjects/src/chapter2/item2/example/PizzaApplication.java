@@ -1,7 +1,7 @@
-package chapter2.example;
+package chapter2.item2.example;
 
-import chapter2.example.NyPizza.Size;
-import chapter2.example.Pizza.Topping;
+import chapter2.item2.example.NyPizza.Size;
+import chapter2.item2.example.Pizza.Topping;
 
 public class PizzaApplication {
 

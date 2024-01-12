@@ -1,4 +1,4 @@
-package chapter2;
+package chapter2.item2;
 
 //빌더 패턴 - 점층적 생성자 패턴과 자바빈즈 패턴의 장점만 취한다.
 public class BuilderPattern {

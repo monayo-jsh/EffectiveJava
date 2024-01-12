@@ -1,4 +1,4 @@
-package chapter2.example;
+package chapter2.item2.example;
 
 import java.util.EnumSet;
 import java.util.Objects;
